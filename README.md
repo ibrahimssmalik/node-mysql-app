@@ -16,7 +16,7 @@ JoinUs is a simple web app that collects user email addresses and stores them in
 
 ## Version Information
 
-April 2024 - Final version of the web app.
+April 2024 - Final version of web app.
 
 ## How to Run the Program
 
